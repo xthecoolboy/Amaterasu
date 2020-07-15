@@ -2,7 +2,7 @@ const config = {
     "admins": [],
     "support": [],
     defaultSettings: {
-        "prefix": "a!",
+        "prefix": ">>",
         "modLogChannel": "mod-log",
         "modRole": "Moderator",
         "adminRole": "Administrator",
